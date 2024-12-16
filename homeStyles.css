@@ -21,6 +21,7 @@ h1{
     padding: 30px;
     text-align: center;
     background-color: blanchedalmond;
-    border: 8px solid #A7988A;
+    border-top: 8px solid #A7988A;
+    border-bottom: 8px solid #A7988A;
     color:  #A7988A;
 }
