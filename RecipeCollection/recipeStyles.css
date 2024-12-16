@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    color:  #4E3629;
+}
+
+h1, h3{
+    border-bottom: 8px solid #A7988A;
+}
+
+p, ol, ul{
+    color: #4E3629;
+}
