@@ -1,3 +1,7 @@
+body{
+    background-color: antiquewhite;
+}
+
 p{
     display: inline-block;
     background-color: blanchedalmond;
